@@ -1,0 +1,7 @@
+{
+  "name": "flotteionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
